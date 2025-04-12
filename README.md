@@ -1,4 +1,3 @@
-
 <h1 align="center">
   Seja bem vindo(a) ao meu perfil!
 </h1>
@@ -47,10 +46,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diogoww/diogoww/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diogoww/diogoww/output/github-contribution-grid-snake.svg">
 </picture>
-
-<br />
-<br />
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=didico14" alt="Spotify recently played"  />
-</div>
