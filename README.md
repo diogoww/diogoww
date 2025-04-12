@@ -1,5 +1,5 @@
 # Seja bem vindo(a) ao meu perfil!
-## Eu sou o Diogo Varaschin, apaixonado por programação, tecnologia e inovação!
+## Eu sou o Diogo Varaschin, apaixonado por programação, música, tecnologia e inovação!
 <div>
   <a href="https://github.com/diogoww">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogoww&show_icons=true&theme=dracula" />
