@@ -15,7 +15,7 @@
 
 <br />
     
-<img align="right" width="180" height="180" src="https://i.imgur.com/nPgDTWe.gif">
+<img align="right" width="180" height="180" src="https://64.media.tumblr.com/ab12698fc5cd6d3f02b510e2f56c451e/tumblr_pza47t6JSC1s26zs1o1_1280.gifv">
 
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Diogo-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
