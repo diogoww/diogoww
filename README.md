@@ -14,7 +14,7 @@
 
 <br />
 
-<div style="display: inline_block" align="left"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Diogo-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Diogo-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Diogo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -27,7 +27,7 @@
   
   ##
  
-<div align="left"> 
+<div align="center"> 
   <!--https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md link dos badges -->
   <a href="https://www.instagram.com/diogojvo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diogo-varaschin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
