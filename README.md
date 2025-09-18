@@ -5,7 +5,6 @@
 <h2 align="center">
   Eu sou o Diogo Varaschin, apaixonado por programação, música, tecnologia e inovação!
 </h2>
-<br />
 
 <!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogoww&show_icons=true&theme=dracula&hide_border=false" />
