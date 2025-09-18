@@ -12,7 +12,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoww&layout=compact&langs_count=8&theme=dracula&hide_border=false" />
 </div> --> 
 
-<br />
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Diogo-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
