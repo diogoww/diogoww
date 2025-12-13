@@ -2,7 +2,7 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-Hi, I'm Diogo 👩‍💻.
+Hi, I'm Diogo 🧑‍💻.
 
 @@I'm a data analyst & software developer@@
 + Living in Curitiba, Brazil 🇧🇷.
