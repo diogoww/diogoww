@@ -10,7 +10,7 @@ Hi, I'm Diogo 👩‍💻.
 ! 📖 Programming languages, functional, web development
 ```
 
-#### 👉 *[diogow.com.br](https://diogow.com.br/)* 👈
+#### 👉 *[diogow.com.br](https://diogow.com.br/)* 
 
 <Youre doing great>
 <Good things will come to you>
