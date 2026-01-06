@@ -8,7 +8,7 @@ Hi, I'm Diogo 🧑‍💻.
 + Living in Curitiba, Brazil 🇧🇷.
 - 22 years old
 + pt-br / en / es / it
-! 📖 Programming languages, functional, web development
+! 📖 Programming languages, data analysis, functional, web development
 ```
 
 #### 👉 *[diogow.com.br](https://diogow.com.br/)* 
