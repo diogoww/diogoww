@@ -4,7 +4,7 @@
 ```diff
 Hi, I'm Diogo 🧑‍💻.
 
-@@I'm a data analyst & software developer@@
+@@I'm a data analyst & fullstack developer@@
 + Living in Curitiba, Brazil 🇧🇷.
 - 22 years old
 + pt-br / en / es / it
