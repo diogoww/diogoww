@@ -6,7 +6,7 @@ Hi, I'm Diogo 🧑‍💻.
 
 @@I'm a data analyst & fullstack developer@@
 + Living in Curitiba, Brazil 🇧🇷.
-- 22 years old
+- 23 years old
 + pt-br / en / es / it
 ! 📖 Programming languages, data analysis, functional, web development
 ```
